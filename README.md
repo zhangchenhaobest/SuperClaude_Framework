@@ -1,3 +1,29 @@
+# SuperClaude_Framework
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用专用命令、认知人格与开发方法论增强 Claude Code 的配置框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 # 🚀 SuperClaude Framework
